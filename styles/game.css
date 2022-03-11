@@ -26,3 +26,8 @@ img {
     display: block;
     margin: 0 auto;
 }
+
+a {
+    color: #ffff;
+    font-size: 25px;
+}
