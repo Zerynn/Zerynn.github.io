@@ -52,3 +52,4 @@ function display_random_image() {
     }
     // display the image  
     document.querySelector("#afbeeldingen").appendChild(newImage);
+}
